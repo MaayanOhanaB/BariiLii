@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\Desktop\\newest pro\\BariiLii\\BariiLii\\BariiLii.csproj": {}
+    "C:\\Users\\nadav\\Desktop\\newProject\\BariiLii\\BariiLii.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\Desktop\\newest pro\\BariiLii\\BariiLii\\BariiLii.csproj": {
+    "C:\\Users\\nadav\\Desktop\\newProject\\BariiLii\\BariiLii.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\newest pro\\BariiLii\\BariiLii\\BariiLii.csproj",
+        "projectUniqueName": "C:\\Users\\nadav\\Desktop\\newProject\\BariiLii\\BariiLii.csproj",
         "projectName": "BariiLii",
-        "projectPath": "C:\\Users\\Owner\\Desktop\\newest pro\\BariiLii\\BariiLii\\BariiLii.csproj",
-        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Desktop\\newest pro\\BariiLii\\BariiLii\\obj\\",
+        "projectPath": "C:\\Users\\nadav\\Desktop\\newProject\\BariiLii\\BariiLii.csproj",
+        "packagesPath": "C:\\Users\\nadav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nadav\\Desktop\\newProject\\BariiLii\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
